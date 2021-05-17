@@ -11,13 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The first computer bug was an actual bug. A moth, to be precise. Yes, the first computer bug was discovered in 1947, and was a literal bug; or moth stuck inside Grace Hopper’s Harvard Mark II computer.
 
-![Profile views](https://gpvc.arturio.dev/KrithikShailesh)
 
-### These are my Github Stats 
-
+### Info:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=KrithikShailesh)
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikShailesh)](https://github.com/KrithikShailesh/github-readme-stats)
+
+![Profile views](https://gpvc.arturio.dev/KrithikShailesh)
