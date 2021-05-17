@@ -9,6 +9,28 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The first computer bug was an actual bug. A moth, to be precise. Yes, the first computer bug was discovered in 1947, and was a literal bug; or moth stuck inside Grace Hopper’s Harvard Mark II computer.
 
+## Interested in:
+
+1. Application Development.
+2. Problem Solving in Java.
+
+## Languages Known:
+
+1. Java.
+2. C.
+3. Python.
+4. Dart(Flutter).
+5. HTML, CSS, JavaScript.
+6. R.
+
+## Platforms:
+
+1. Android Studio.
+2. Visual Studio Code.
+3. Eclipse.
+4. MySql Workbench.
+5. Firebase.
+6. R Studio.
 
 ### Info:
 
