@@ -36,6 +36,8 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=KrithikShailesh)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrithikShailesh1&theme=tokyonight_duo)](https://github.com/KrithikShailesh/github-readme-streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikShailesh)](https://github.com/KrithikShailesh/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/KrithikShailesh)
