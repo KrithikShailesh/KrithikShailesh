@@ -1,7 +1,5 @@
 ### Hi there, I'm Krithik Shailesh 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Quotly(App).
 - 🌱 I’m currently learning Firebase.
 - 👯 I’m looking to collaborate on App Development(Flutter).
