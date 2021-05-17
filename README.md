@@ -1,4 +1,4 @@
-### Hi there, I'm Krithik Shailesh 👋
+## Hi there, I'm Krithik Shailesh 👋
 
 - 🔭 I’m currently working on Quotly(App).
 - 🌱 I’m currently learning Firebase.
@@ -32,7 +32,7 @@
 5. Firebase.
 6. R Studio.
 
-### Info:
+## Info:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=KrithikShailesh)
 
