@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Quotly(App).
 - 🌱 I’m currently learning Firebase.
 - 👯 I’m looking to collaborate on App Development(Flutter).
-- 🤔 I’m looking for help with Frameworks
+- 🤔 I’m looking for help with Frameworks.
 - 💬 Ask me about Java, Flutter and any tech related stuff.
 - 📫 How to reach me: krithikshaileshr@gmail.com
 - 😄 Pronouns: He/His
