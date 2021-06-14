@@ -1,8 +1,8 @@
 ## Hi there, I'm Krithik Shailesh 👋
 
 - 🔭 I’m currently working on Quotly(App).
-- 🌱 I’m currently learning Firebase.
-- 👯 I’m looking to collaborate on App Development(Flutter).
+- 🌱 I’m currently learning React Native.
+- 👯 I’m looking to collaborate on App Development.
 - 🤔 I’m looking for help with Frameworks.
 - 💬 Ask me about Java, Flutter and any tech related stuff.
 - 📫 How to reach me: krithikshaileshr@gmail.com
