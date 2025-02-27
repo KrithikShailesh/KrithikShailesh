@@ -25,12 +25,11 @@ Welcome to my GitHub! I'm a **Lead React Native Developer** with **3+ years of e
 ### 📄 AI Resume Optimizer 🌟
 - **Stack:** Next.js, Firebase, AI-powered analysis
 - **Features:** Upload & analyze resumes, interactive UI, dark mode, suggestions for improvement
-- **Live Demo:** [Your Live Link]
+- **Live Demo:** [https://www.resai.in/]
 
 ### ✈️ AI Travel Planner 🌍
 - **Stack:** Next.js, AI, Firebase
 - **Features:** Generate day-wise itineraries, recommend hotels & restaurants, detailed route maps, direct booking options
-- **Live Demo:** [Your Live Link]
 
 ---
 
