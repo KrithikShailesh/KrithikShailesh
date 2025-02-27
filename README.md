@@ -1,43 +1,40 @@
-## Hi there, I'm Krithik Shailesh 👋
+# Hi there! 👋 I'm a Lead Mobile Developer 🚀
 
-- 🔭 I’m currently working on Quotly(App).
-- 🌱 I’m currently learning React Native.
-- 👯 I’m looking to collaborate on App Development.
-- 🤔 I’m looking for help with Frameworks.
-- 💬 Ask me about Java, Flutter and any tech related stuff.
-- 📫 How to reach me: krithikshaileshr@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: The first computer bug was an actual bug. A moth, to be precise. Yes, the first computer bug was discovered in 1947, and was a literal bug; or moth stuck inside Grace Hopper’s Harvard Mark II computer.
+Welcome to my GitHub! I'm a **Lead React Native Developer** with **3+ years of experience** in building high-performance, scalable mobile applications. Passionate about crafting seamless user experiences, leading teams, and continuously learning new technologies.
 
-## Interested in:
+---
 
-1. Application Development.
-2. Problem Solving in Java.
+## 🔥 About Me
+- 💻 **Tech Stack:** React Native, React.js, Node.js, Express.js, Firebase, MongoDB, Expo, Zustand, Git
+- 📱 **Mobile Expertise:** Built and led the development of multiple real-time apps (internal & customer-facing)
+- 🎯 **Strengths:** Multitasking, Leadership, Project Management, Collaboration, Clean Code
+- 🚀 **Recent Projects:**
+  - **AI Resume Optimizer Web App** (Next.js, Firebase, AI-powered analysis)
+  - **AI-Based Travel Planner** (Next.js, AI-generated itineraries, hotel & restaurant recommendations, interactive maps)
+- 🌍 **Career Goal:** Looking for **on-site opportunities abroad** to expand my global exposure and skills.
+- 🛠 **Side Hustles:** Exploring AI-based tools, including **AI-powered productivity boosters & monetizable AI tools**
 
-## Languages Known:
+---
 
-1. Java.
-2. C.
-3. Python.
-4. Dart(Flutter).
-5. HTML, CSS, JavaScript.
-6. R.
+## 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrithikShailesh&show_icons=true&theme=radical)
 
-## Platforms:
+---
 
-1. Android Studio.
-2. Visual Studio Code.
-3. Eclipse.
-4. MySql Workbench.
-5. Firebase.
-6. R Studio.
+## 🚀 Featured Projects
+### 📄 AI Resume Optimizer 🌟
+- **Stack:** Next.js, Firebase, AI-powered analysis
+- **Features:** Upload & analyze resumes, interactive UI, dark mode, suggestions for improvement
+- **Live Demo:** [Your Live Link]
 
-## Info:
+### ✈️ AI Travel Planner 🌍
+- **Stack:** Next.js, AI, Firebase
+- **Features:** Generate day-wise itineraries, recommend hotels & restaurants, detailed route maps, direct booking options
+- **Live Demo:** [Your Live Link]
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KrithikShailesh)
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KrithikShailesh&theme=default)](https://github.com/KrithikShailesh/github-readme-streak-stats)
+## 🌟 Let's Connect!
+🔗 [LinkedIn](#) | ✉️ [Email](#) | 🌐 [Portfolio](#) | 📂 [GitHub](#)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrithikShailesh&theme=default)
-
-![Profile views](https://gpvc.arturio.dev/KrithikShailesh)
+Love tech, open discussions, and clean code? Let's collaborate and build something amazing! 🚀
