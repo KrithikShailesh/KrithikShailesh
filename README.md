@@ -34,6 +34,6 @@ Welcome to my GitHub! I'm a **Lead React Native Developer** with **3+ years of e
 ---
 
 ## 🌟 Let's Connect!
-🔗 [LinkedIn](#) | ✉️ [Email](#) | 🌐 [Portfolio](#) | 📂 [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/krithikshailesh/) | ✉️ [Email](mailto:krithikshaileshr@gmail.com) | 🌐 [Portfolio](https://krithik.framer.website/)
 
 Love tech, open discussions, and clean code? Let's collaborate and build something amazing! 🚀
