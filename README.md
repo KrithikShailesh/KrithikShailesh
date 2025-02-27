@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a **Lead React Native Developer** with **3+ years of e
 ---
 
 ## 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrithikShailesh&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
 
 ---
 
